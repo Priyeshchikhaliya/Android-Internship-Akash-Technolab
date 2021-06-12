@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Fruits Benefits</string>
+
+    <string-array name="fruitsIndexList">
+
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Grape</item>
+        <item>Orange</item>
+        <item>Watermelon</item>
+        <item>Papaya</item>
+        <item>Blackberry</item>
+        <item>Strawberry</item>
+        <item>Mango</item>
+        <item>Lychee</item>
+
+    </string-array>
+
+    <string-array name="fruitsDetailsArray">
+
+        <item><b>Apples</b> are extremely rich in important antioxidants, flavanoids, and dietary fiber. The phytonutrients and antioxidants in apples may help reduce the risk of developing cancer, hypertension, diabetes, and heart disease. This article provides a nutritional profile of the fruit and its possible health benefits.</item>
+        <item>Banana is a perennial herbaceous plant that grows from the underground rhizome. It flourishes well under tropical, moisture-rich, humid, low-lying farmlands.
+            Banana has unique growth characteristics. In fact, the whole plant is a false stem (pseudostem). This pseudostem is consisting of broad leaves, together with their long petioles, overlapping each other in a disc-like fashion. The whole plant may reach 2 to 6 meters in height from the ground surface depending upon the cultivar types. At maturity, the rhizome gives rise to a flower (inflorescence) which is carried up along actual (true) core stem (smooth un-branched stem) which pass through the center of the pseudostem. The flower finally emerges out at the top in-between leaf clusters. The inflorescence subsequently develops to a large hanging bunch, consisting of 3 to 20 hands (tiers of fruit), with each hand carrying at least 5-10 fingers (fruits).</item>
+        <item>Grapefruit is a tropical citrus fruit known for its sweet and somewhat sour taste. It\'s rich in nutrients, antioxidants and fiber, making it one of the healthiest citrus fruits you can eat. Research shows that it may have some powerful health benefits, including weight loss and a reduced risk of heart disease.</item>
+        <item>Orange (fruit) An orange is a type of citrus fruit that people often eat or they can sniff the skin when grinded into a smooth powder. Oranges are a very good source of vitamin . Orange juice is an important part of many people\'s breakfast.</item>
+        <item>Many people like to eat watermelon in the summer because the fruit is cool and refreshing. Watermelons are a great source of vitamin A, vitamin C, vitamin B6 and vitamin B1. They also contain potassium, magnesium, carotenoid antioxidant, and lycopene. Watermelons are fruits that come from a vine-like plant.</item>
+        <item>Papayas contain an enzyme called papain that aids digestion; in fact, it can be used as a meat tenderizer. Papaya is also high in fiber and water content, both of which help to prevent constipation and promote regularity and a healthy digestive tract.</item>
+        <item>Like other berries, blackberries are commonly eaten out of hand. You can also use these versatile fruits in baked goods, add them to fruit or vegetable salads or turn them into jellies or sauces. Mix blackberries with apples, kiwi and strawberries to make a delicious fruit salsa you can eat with chips, use to top ice cream or other desserts or use as a condiment with meat or seafood. Blackberries are a good source of fiber and essential vitamins and minerals and have a number of potential health benefits.</item>
+        <item>Packed with vitamins, fiber, and particularly high levels of antioxidants known as polyphenols, strawberries are a sodium-free, fat-free, cholesterol-free, low-calorie food. They are among the top 20 fruits in antioxidant capacity and are a good source of manganese and potassium.</item>
+        <item>Mango is a tropical tree cultivated in many regions of India, and now its farming has been extended wide across the world in many continents.After flowering, its fruits grow at the end of a long, string-like peduncle, with sometimes more than one fruit to a peduncle.
+            Each fruit measures 5 to 15 cms in length and about 4 to 10 cms in width, and has typical “mango” shape, or sometimes oval or round. Its weight ranges from 150 g to around 750 g. Outer skin (pericarp) is smooth and is green in un-ripe mangoes but turns in ripe fruits into golden yellow, crimson red, yellow or orange-red depending upon the cultivar type. Fresh mango season lasts from April until August.</item>
+        <item>According to USDA lychee is packed with many nutrients including vitamin C, vitamin B6, niacin, riboflavin, folate, copper, potassium, phosphorus, magnesium, and manganese. Furthermore, lychee is a great source of dietary fiber, protein, and a good source of proanthocyanidins and polyphenolic compounds.</item>
+
+    </string-array>
+
+</resources>
