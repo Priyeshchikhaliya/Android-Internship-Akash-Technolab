@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".SignupActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Please Enter Details"
+        android:gravity="center"
+        android:paddingBottom="30sp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#ffc107"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Name"
+        android:layout_marginBottom="10sp"
+        android:textSize="20sp"
+        android:id="@+id/etName"
+        android:textColor="@color/black"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Email id"
+        android:textSize="20sp"
+        android:id="@+id/etEmail"
+        android:layout_marginBottom="10sp"
+        android:textColor="@color/black"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Password"
+        android:layout_marginBottom="10sp"
+        android:inputType="textPassword"
+        android:textSize="20sp"
+        android:id="@+id/etPass"
+        android:textColor="@color/black"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Mobile No."
+        android:textSize="20sp"
+        android:id="@+id/etMobile"
+        android:textColor="@color/black"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:textSize="20sp"
+        android:id="@+id/btnSignup"
+        android:layout_marginTop="15sp"
+        android:textColor="#ffc107"
+        />
+
+</LinearLayout>
